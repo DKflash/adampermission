@@ -52,8 +52,4 @@ The application requests the following permissions:
 
 These permissions are managed using custom `PermissionHandler` and `PermissionHelper` classes. The app dynamically requests permissions and updates their statuses in the UI.
 
-## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
