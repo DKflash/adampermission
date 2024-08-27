@@ -74,7 +74,7 @@
 
 <pre><code>
 1. Clone the repository:
-   <code>git clone https://github.com/Adam-Agbaria/Permission-Manager-Library.git</code>
+   <code>git clone https://github.com/DKflash/adampermission.git</code>
 
 2. Add the necessary permissions to your AndroidManifest.xml file.
 
